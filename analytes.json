@@ -1,0 +1,333 @@
+[
+    {
+        "Untersuchung": "ACE - Angiotensin convertingenzym",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 18,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Albumin / Serum Alb.",
+        "Wohin": "ZL",
+        "Schein": "N / A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    }
+,
+    {
+        "Untersuchung": "Aldolase",
+        "Wohin": "ZL",
+        "Schein": "B ",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 400,
+        "BenötigtesTotvolumen\ninµl": 0,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alkalische\nPhosphatase",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2.8,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alkoholspielgel",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 4,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alpha 1-Fetoprotein (AFP)",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 6,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alpha-1 Antitrypsin",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 9,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": null
+    },
+    {
+        "Untersuchung": "Alprazolamspiegel",
+        "Wohin": "ZL",
+        "Schein": "B ",
+        "Röhrchen": "Serum",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 100,
+        "BenötigtesTotvolumen\ninµl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Ammoniak (= NH³)",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "EDTA-Vollblut",
+        "Bemerkungen": "SOFORT auf Eis legen und\nversenden",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 17,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Amylase im Blut",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 4,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Amylase im Harn",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Harnröhrchen ohne Additive",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 4,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Amylase im Liquor",
+        "Wohin": "ZL-CDK",
+        "Schein": "N",
+        "Röhrchen": "Punktat",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Antihyptertensiva im Harn",
+        "Wohin": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen ohne Additive",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Antiphospholipid-screening",
+        "Wohin": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Serum + Gerinnung",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Nicht im ZL"
+    },
+    {
+        "Untersuchung": "ASL-Antistreptolysin- Titer",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Aspergillus Antigen",
+        "Wohin": "MB",
+        "Schein": null,
+        "Röhrchen": "Serum",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Nicht im ZL"
+    },
+    {
+        "Untersuchung": "Aszites Punktat (Leukos + Differenzierung)",
+        "Wohin": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Vorgehen siehe extra Zettel",
+        "Bemerkungen": "Entnahmeort eingeben",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 200,
+        "BenötigtesTotvolumen\ninµl": 160,
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Beta D Glucan",
+        "Wohin": "MB",
+        "Schein": null,
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Oberflächenprotein von Pilzen",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Nicht im ZL"
+    },
+    {
+        "Untersuchung": "Beta-2-Mikroglobulin im Blut",
+        "Wohin": "ZL",
+        "Schein": "A ",
+        "Röhrchen": "Serum\n",
+        "Bemerkungen": "Kein Sammelharn nötig",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": "50\n50",
+        "BenötigtesTotvolumen\ninµl": "100\n100",
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Beta-2-Mikroglobulin im Harn",
+        "Wohin": null,
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen ohne Additive",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Bilirubin gesamt",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Optimal wäre Lichtschutz des\nRöhrchens",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Bilirubin direkt",
+        "Wohin": null,
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Optimal wäre Lichtschutz des\nRöhrchens",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 6.7,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Blutzucker\nenzymatisch",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Bei Einzelabnahme im gelben\nRöhrchen",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "C3 Komplement",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 9,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "C4 Komplement",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 15,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Caeruloplasmin",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 15,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "CDG Screening",
+        "Wohin": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Serum",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 100,
+        "BenötigtesTotvolumen\ninµl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "CDT",
+        "Wohin": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Bei Eltern große Röhrchen",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 100,
+        "BenötigtesTotvolumen\ninµl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Chlostridien Toxine",
+        "Wohin": "MB",
+        "Schein": null,
+        "Röhrchen": "Stuhl",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": "Nicht im ZL"
+    },
+    {
+        "Untersuchung": "Cholesterin",
+        "Wohin": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Nicht im ZL",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Cholinesterase",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Nicht im ZL",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 2,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Chyloflüssigkeit auf TG, GP, PT,\nLymphozyten\nZellzahl",
+        "Wohin": "KiSpi",
+        "Schein": "C",
+        "Röhrchen": "ZL: Weiße Eprovette\nKiSpi:\n1ml Chyloflüssigkeit in ein EDTA Röhrchen gut schwenken",
+        "Bemerkungen": "In Spalte Bemerkungen ganz unten eintragen",
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": null,
+        "BenötigtesTotvolumen\ninµl": null,
+        "Gruppe": null
+    },
+    {
+        "Untersuchung": "CreatinKinase Isoenzym MB (CKMB)",
+        "Wohin": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": null,
+        "Mindestprobenmenge(Pipettiermenge)\ninµl": 5,
+        "BenötigtesTotvolumen\ninµl": 50,
+        "Gruppe": "Klinische Chemie"
+    }
+]
