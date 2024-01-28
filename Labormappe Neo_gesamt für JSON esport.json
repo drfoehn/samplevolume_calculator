@@ -1,0 +1,1520 @@
+[
+    {
+        "Untersuchung": "Anti Xa Heparinmonitoring",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N ",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "Genau 4h nach Lovenoxgabe! (Oder mit ges. Gerinnung)",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 10,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Antiphospholipid-screening Citrat",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "ACHTUNG: Auch APS-Serum auswählen!",
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Antiphospholipid-screening Serum",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "ACHTUNG: Auch APS-Citrat auswählen!",
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "APC-Ratio",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "beide benötigten Tests",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 20,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "AT III",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 21,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "D-Dimer",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Fibrinogen",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 10,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor XII (12)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 4,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor XIII (13)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 20,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor II (2)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor V (5)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor VII (7)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor X (10)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor VIII (8)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor IX ( 9)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Gerinnungsfaktor XI (11)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Protein C",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "Nur Mo-Fr.",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Protein S free",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "Nur Mo-Fr.",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 21,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Protein S-Aktivität",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "Wird nur 1xWoche bestimmt,\r\nsonst im ZL tiefgekühlt",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 25,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "PTT",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "PZ (inkl. INR)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "ROTEM (spez. Fibrinmessung)",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Gerinnung",
+        "Bemerkungen": "3ml Gerinnungsröhrchen - gefüllt bis zur Markierung!",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3000,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Thrombinzeit (TZ)",
+        "Wohin/Schein": "ZL",
+        "Schein": "G / A / N",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "von-Willebrand-Faktor Antigen und Aktivität",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 30,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Gerinnung"
+    },
+    {
+        "Untersuchung": "Aszites Punktat (Leukos + Differenzierung)",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Entnahmeort eingeben\r\nVorgehen siehe extra Zettel",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 160,
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Leukozytentypisierung",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Tel. Ankündigen inkl. Fragestellung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 526,
+        "Benötigtes Totvolumen \r\nin µl": 270,
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Thrombozyten im Citratblut",
+        "Wohin/Schein": "ZL",
+        "Schein": "G",
+        "Röhrchen": "Gerinnung",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "160µl wird für Analyse benötigt - bitte ein von der Menge passendes Citratröhrchen bis zur Markierung füllen",
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Alpha-1 Antitrypsin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Immunologie"
+    },
+    {
+        "Untersuchung": "Cytomegalie AK (IgG, IgM)",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Pipettiermenge je Parameter ",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis B c-AK  (IgM / IgG)",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 300,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis B e-AK / AG",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 300,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis B s-Antigen",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis B s-Antikörper",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis A-IgG / IgM",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis C-AK IgG/IgM",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Hepatitis Serologie",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "V- Ärzten gew. US → Unterschrift                                                                 1x volles Serum-Röhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 1500,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "HIV-AK",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Herpes (HSV) - AK (IgG / IgM) im Blut",
+        "Wohin/Schein": "MB",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Befund nach 1 Woche",
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Herpes (HSV) - AK (IgG / IgM) im Abstrich (Schnellt.)",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Transwab Abstrich v. Kinderambulanz",
+        "Bemerkungen": " Keinen normalen BAK Abstrich vernwenden!",
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Sars COV-2 Antikörper",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Toxoplasmose AK (IgG +IgM)",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 300,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Varicellen IgG, IgM",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Serum",
+        "Gruppe": "Infektionsserologie"
+    },
+    {
+        "Untersuchung": "Ammoniak (= NH³)",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "EDTA-Vollblut",
+        "Bemerkungen": "SOFORT auf Eis legen und versenden",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 17,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Elektroyte (Na, K, Cl, Ca, P, Mg) im Sammelharn",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "Na/K/Cl: 10-15 / Ca: 2 / Phosphor: 15 / Magnesium: 14\r\nHarnsammelmenge/24h mit angeben",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Panele"
+    },
+    {
+        "Untersuchung": "Elektroyte (Na, K, Cl, Ca, P, Mg) im Spontanharn",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "Na/K/Cl: 10-15 / Ca: 2 / Phosphor: 15 / Magnesium: 14",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Panele"
+    },
+    {
+        "Untersuchung": "Amylase im Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Harnröhrchen ohne Additive",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 4,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Albumin im Serum",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Aldolase",
+        "Wohin/Schein": "ZL",
+        "Schein": "B ",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 400,
+        "Benötigtes Totvolumen \r\nin µl": 0,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alkalische Phosphatase",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2.8,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alkoholspielgel",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 4,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Amylase im Blut",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 4,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "ASL-Antistreptolysin- Titer",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Bilirubin direkt",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Optimal wäre Lichtschutz des Röhrchens",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 6.7,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Bilirubin gesamt",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Optimal wäre Lichtschutz des Röhrchens",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Blutzucker\r\nenzymatisch",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Bei Einzelabnahme im gelben Röhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Caeruloplasmin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Cholesterin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Cholinesterase",
+        "Wohin/Schein": "ZL",
+        "Schein": "N",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "CKMB = CreatinKinase Isoenzym MB",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "CPK = CK",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2.8,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "CRP",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Cystatin C",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Nur Mo. - Fr.\r\nIm Harn nicht möglich",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Serum-Eisen",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 8.5,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Transferrinsättigung",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Berechnete Analyse (Serum-Eisen und Transferrin anfordern)",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 0,
+        "Benötigtes Totvolumen \r\nin µl": 0,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Ferritin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 10,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Transferrin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Freies Hämoglobin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "auch aus EDTA-Plasma möglich",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Fructosamin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Diabet. Kinder",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 6,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Haptoglobin",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Amylase im Liquor",
+        "Wohin/Schein": "ZL-CDK",
+        "Schein": "N",
+        "Röhrchen": "Punktat",
+        "Gruppe": "Liquoranalysen"
+    },
+    {
+        "Untersuchung": "ACE - Angiotensin convertingenzym",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 18,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alpha 1-Fetoprotein (AFP)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 6,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Chyloflüssigkeit auf TG, GP, PT, Lymphozyten, Zellzahl",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Weiße Eprovette\r\n",
+        "Bemerkungen": "In Spalte Bemerkungen ganz unten eintragen\r\nRöhrchen gut schwenken",
+        "Gruppe": "Panele"
+    },
+    {
+        "Untersuchung": "Harnsäure",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Homocystein",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Keine Vitamingabe die letzten 3d: Sofort gekühlt in ZL",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 20,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Interleukin 6 (Venöses oder Nabelschnurblut)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Bei Nabelschnurblut IL6 Cordal- blut ankreuzen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 18,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Kreatinin (+eGFR) im Blut",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Kreatinin im Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Kreatinin-Clearence",
+        "Schein": "A",
+        "Bemerkungen": "Zeitgleiche Abnahme von Harn und Blut.\r\nGes.harnmenge, Gewicht und Länge des Kindes angeben!",
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Kupfer im Plasma",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Sonderuntersuchungen"
+    },
+    {
+        "Untersuchung": "Kupfer im 24h-Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "Angabe der gesamelten Harnmenge in 24h mit 1ml Harn ins ZL - Keine Konservierung (wird 1x die Woche gemacht)",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 500,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Laktat im Blut (heparin-Plasma)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "ZL → Auf Eis (als Ersatz für Fluorid-Rö)",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Laktat im Blut (Fluorid-Röhrchen)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Fluorid-Röhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Lamictal Spiegel (Lamotrigin)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "LDH",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2.8,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "GOT",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "GPT",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Gamma-GT",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Alkal. Phosphatase",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Lipoprotein(a) ",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Myoglobin",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Oder gemeinsam mit anderen\r\nParametern",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "NSE  (neurospez. Enolase)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 12,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "S100",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 12,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "NT-proBNP",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Procalcitonin (PCT)",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 18,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Rheumafaktor",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Osmolarität im Serum\r\n",
+        "Wohin/Schein": "ZL",
+        "Schein": "H",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Außerhalb Routinezeiten bitte Formular \"Zuweisung zur Messung der Osmolarität im Serum/Harn außerhalb Routinezeiten\" verwenden.",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Transferrin Rezeptor löslich",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "ALT :T-Zellen-Absolut:T4 + T8 NEU siehe Lymphozytentyp.",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Triglyceride",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Troponin hs",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 30,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Zink (Zn)",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Wird 1x die Woche gemacht",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Sonderuntersuchungen"
+    },
+    {
+        "Untersuchung": "Covid PCR Blut",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "EDTA",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 1000,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "CMV PCR = DNA im Blut",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "EDTA\r\n",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 500,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "CMV PCR = DNA im Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Harnröhrchen\r\n",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 500,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "CMV PCR = DNA im Liquor",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Liquorröhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 500,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Liquoranalysen"
+    },
+    {
+        "Untersuchung": "HBV DNS / HBV-PCR > quantitativ",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 300,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "HCV RNA / HCV-PCR > quantitativ",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 600,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "Herpes (HSV) PCR im Liquor",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Liquor",
+        "Gruppe": "Liquoranalysen"
+    },
+    {
+        "Untersuchung": "Herpes (HSV) PCR im Blut IgG/IgM - HSV 1/2 PCR",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Befund innerhalb 1 Woche",
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "HIV RNA / HIV-PCR",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "EDTA",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 600,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "Influenza A/B + RSV PCR; SARS-COV2- PCR",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Nasal Aspirate/Wash (NA/W) Proben und Nasopharyngeal (NP) Abstriche in Virentransportmedium (3-ml-Röhrchen mit Transportmedium) ",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "300 µl Virentransportmedium",
+        "Benötigtes Totvolumen \r\nin µl": "100µl",
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "RSV PCR",
+        "Wohin/Schein": "ZL",
+        "Schein": "I",
+        "Röhrchen": "Nasen-, Rachen- oder Trachealsekret",
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "UGT1A1-Polymorphismus",
+        "Wohin/Schein": "ZL",
+        "Schein": "B ",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Genetischer Revers nötig,\r\nBefund dauert 1 ca Woche",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Molekularbiologie"
+    },
+    {
+        "Untersuchung": "Beta-2-Mikroglobulin im Harn",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen ohne Additive",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "C3 Komplement",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 9,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "C4 Komplement",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 15,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Beta-2-Mikroglobulin im Blut",
+        "Wohin/Schein": "ZL",
+        "Schein": "A ",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Kein Sammelharn nötig",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Serum-Elektrophorese",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 10,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Albumin im Harn",
+        "Wohin/Schein": "ZL",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Albumin / Kreatinin - Ratio",
+        "Wohin/Schein": "ZL",
+        "Bemerkungen": "Berechnete Analyse (Albumin und Kreatinin im Harn anfordern)",
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Protein / Kreatinin - Ratio",
+        "Wohin/Schein": "ZL",
+        "Bemerkungen": "Berechnete Analyse (Protein und Kreatinin im Harn anfordern)",
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Gesamtprotein im Harn",
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Harnproteinmuster (Albumin, Alpha1-Mikroglobulin, Alpha2-Makroglobulin, IgG und Kreatinin im Harn)",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Harnröhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 323,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Immunglobuline IgM, IgA, IgG,",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": "100\r\n",
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Immunglobulin IgE",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 50,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Proteinchemie"
+    },
+    {
+        "Untersuchung": "Antihyptertensiva im Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen",
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Drogennachweis im Harn",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "Möglichst am 1. LT und erster Harn",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 500,
+        "Benötigtes Totvolumen \r\nin µl": 750,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Coffein Spiegel aus Heparin-Plasma",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Einzelbestimmung: Serum \r\nMit anderen Parametern: gemeinsam im Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Alprazolamspiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "CDG Screening",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "CDT",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Bei Eltern große Röhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Clozapin Spiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Coffein Spiegel aus Serum",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Einzelbestimmung: Serum \r\nMit anderen Parametern: gemeinsam im Heparin-Plasma",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Epanutin-Spiegel (Phenytoin)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 1.7,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Gallensäure",
+        "Wohin/Schein": "ZL",
+        "Röhrchen": "Serum (Lichtgesch.!!)",
+        "Bemerkungen": "Probe wird nur Donnerstags\r\nuntersucht!",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Drogennachweis im Mekonium",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Stuhlröhrchen",
+        "Bemerkungen": "Möglichst am 1. LT und erstes Mekonium",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "1g",
+        "Benötigtes Totvolumen \r\nin µl": "1,5g",
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Hydroxyprolin",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Harnröhrchen mit\r\nKonservierung",
+        "Bemerkungen": "Kons.: 3ml Tymol 10% in\r\nIsopropanol vom ZL holen",
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Katecholamine im Harn mit Konservierung",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Dunkles Sammelgef. mit Konserv.mittel, im ZL holen",
+        "Bemerkungen": "Tel. Rüspr. bzgl der Menge des Konservierungsmittel (Eisessig) →  auf 300ml Harn ca. 5ml Eisessig",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3000,
+        "Benötigtes Totvolumen \r\nin µl": 4500,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Katecholamine im Harn ohne Konserv. Arzt fragen!!",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "angesäuerter Harn aus Einzelprotion",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 3000,
+        "Benötigtes Totvolumen \r\nin µl": 4500,
+        "Gruppe": "Sonderuntersuchungen"
+    },
+    {
+        "Untersuchung": "Keppraspiegel\r\n(Levetiracetam)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Nur Montag und Mittwoch!\r\nBis 10 Uhr abnehmen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Refobacin\r\n(Gentamycin)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Tacrolimuspiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "EDTA",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 400,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Targocid-Spiegel (Teicoplanin)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Talspiegel\r\nBestimmung täglich zur Routinezeiten, an Feiertagen und Wochenenden bis 12:00h",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Theospirex-Spiegel (Theophyllin)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Talspiegel. Auf Kurve vermerken falls Spitzenspiegel",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Topamaxspiegel = Topiramatspiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Nur 1x pro Woche bestimmt\r\n→ Donnerstag\r\nWenn früher verschickt, wird Probe im Labor eingefroren",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 150,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Valproinsäure (Depaken)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Unter Antikonvulsiva",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Vitamin A + E",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 550,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Vitamin B12",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Serum",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Vitamin B1-B6",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "EDTA",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 300,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Zyvoxidspiegel (Linezolid)",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Nu Di und Do, muss vor\r\n07.00 Uhr im Labor sein",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 100,
+        "Benötigtes Totvolumen \r\nin µl": 150,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Osmolarität im Harn",
+        "Wohin/Schein": "ZL",
+        "Schein": "H",
+        "Röhrchen": "Harnröhrchen",
+        "Bemerkungen": "Außerhalb Routinezeiten bitte Formular \"Zuweisung zur Messung der Osmolarität im Serum/Harn außerhalb Routinezeiten\" verwenden.",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Harnanalysen"
+    },
+    {
+        "Untersuchung": "Clamydien Abstrich\r\n",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Abstriche\r\n",
+        "Bemerkungen": "Lagerung max. 1 Tag im Kühlschrank\r\nNur spezielle Abstirche verwenden, diese ggf. von Gyn anfordern (rote mit Bürste für Augen)"
+    },
+    {
+        "Untersuchung": "Chyloflüssigkeit auf TG, GP, PT,\r\nLymphozyten\r\nZellzahl",
+        "Wohin/Schein": "KiSpi",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "In Spalte Bemerkungen ganz unten eintragen\r\nRöhrchen gut schwenken"
+    },
+    {
+        "Untersuchung": "Gerinnungsstatus speziell: Prothrombin, Faktor V Leiden,\r\nMTHFR",
+        "Wohin/Schein": "(ZL) G/Gerinnung ZL Genanalyse Tel.: 58104",
+        "Röhrchen": "EDTA",
+        "Bemerkungen": "Revers der Eltern nötig, siehe extra Zettel",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "200 µl",
+        "Benötigtes Totvolumen \r\nin µl": "100 µl"
+    },
+    {
+        "Untersuchung": "Hämoglobinvarianten",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "EDTA",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 146,
+        "Benötigtes Totvolumen \r\nin µl": 270,
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Galaktose",
+        "Wohin/Schein": "KiSpi",
+        "Röhrchen": "Eppendorf",
+        "Bemerkungen": "1ml Perchlorsäure + 2 dazugeh. Röhrchen; vom Sat. Labor  (Tel.: 3880) holen.\r\nRö. bis zum schwarzen Strich\r\nfüllen = 0,2ml und in Lösung"
+    },
+    {
+        "Untersuchung": "Glucose im Liquor",
+        "Wohin/Schein": "ZL-CDK",
+        "Röhrchen": "Eprovette",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "CDK",
+        "Gruppe": "Liquoranalysen"
+    },
+    {
+        "Untersuchung": "Blutzucker enzymatisch",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Bei Einzelabnahme im gelben Röhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 2,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Klinische Chemie"
+    },
+    {
+        "Untersuchung": "Digoxin-Spiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "A, N, E",
+        "Röhrchen": "Heparin-Plasma",
+        "Bemerkungen": "Abnahme 12 Std. nach letzter Gabe, am Schein vermerken",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 6,
+        "Benötigtes Totvolumen \r\nin µl": 100,
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Aspergillus Antigen",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Serum"
+    },
+    {
+        "Untersuchung": "Beta D Glucan",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Oberflächenprotein von Pilzen"
+    },
+    {
+        "Untersuchung": "Clamydien Igm/IgG",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Serum"
+    },
+    {
+        "Untersuchung": "Clamydien Serologie",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Serum"
+    },
+    {
+        "Untersuchung": "Chlostridien Toxine",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Stuhlröhrchen"
+    },
+    {
+        "Untersuchung": "Chlostridien Toxine",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Stuhlröhrchen"
+    },
+    {
+        "Untersuchung": "Enterovirus",
+        "Wohin/Schein": "MB",
+        "Röhrchen": "Stuhlröhrchen"
+    },
+    {
+        "Untersuchung": "Elastase im Stuhl\r\n(Prankreaselastase)",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Stuhlröhrchen",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": "1g",
+        "Benötigtes Totvolumen \r\nin µl": "1,5g",
+        "Gruppe": "Sonderuntersuchungen"
+    },
+    {
+        "Untersuchung": "Insulin Bestimmung",
+        "Wohin/Schein": "ZL",
+        "Schein": "A",
+        "Röhrchen": "Heparin-Plasma?",
+        "Bemerkungen": "Nüchtern! sofort verschicken\r\nNICHT nachts/Wochenende",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 90,
+        "Benötigtes Totvolumen \r\nin µl": 50,
+        "Gruppe": "Sonderuntersuchungen"
+    },
+    {
+        "Untersuchung": "Kuhmilch AK",
+        "Wohin/Schein": "DE",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Siehe nächste Seite!"
+    },
+    {
+        "Untersuchung": "Luminalspiegel",
+        "Wohin/Schein": "ZL",
+        "Schein": "E",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "Einzelbestimmung: Serum Mit anderen Parametern:\r\ngemeinsam im Heparin-Plasma",
+        "Gruppe": "Toxikologie"
+    },
+    {
+        "Untersuchung": "Östirol im 24h Harn",
+        "Wohin/Schein": "NUK",
+        "Röhrchen": "Harnsammelgefäß",
+        "Bemerkungen": "Gesamtmenge angeben"
+    },
+    {
+        "Untersuchung": "Leukozyten im Pleura- oder Pericardpunktat",
+        "Wohin/Schein": "ZL",
+        "Schein": "C",
+        "Röhrchen": "Weiße Eprovette \r\nEDTA für Zellzählung",
+        "Bemerkungen": "immer Punktat in weißer Eprovette sowie Punktat im EDTA Röhrchen (für Leuko Best.)\r\nFRISCH!\r\nCAVE: bei Anforderung kommen 3 Etikette heraus (siehe extra Zettel)",
+        "Mindestprobenmenge (Pipettiermenge) \r\nin µl": 200,
+        "Benötigtes Totvolumen \r\nin µl": 160,
+        "Gruppe": "Hämatologie"
+    },
+    {
+        "Untersuchung": "Prä- und Perinataler Infektionsblock CMV, VZV, HbsAG,\r\nSyphilis, Röteln, Herpes, Parvo B19,\r\nToxoplamose",
+        "Wohin/Schein": "(ZL) I/Serologie unter Profile grün",
+        "Röhrchen": "Serum"
+    },
+    {
+        "Untersuchung": "CMV - AK"
+    },
+    {
+        "Untersuchung": "VZV - AK"
+    },
+    {
+        "Untersuchung": "Treponema - Screening"
+    },
+    {
+        "Untersuchung": "Röteln - AK"
+    },
+    {
+        "Untersuchung": "Parvo B19"
+    },
+    {
+        "Untersuchung": "Toxoplasmose"
+    },
+    {
+        "Untersuchung": "TORCH: (alt) siehe Neu: Prä- und Perinataler Infektionsblock",
+        "Wohin/Schein": "(ZL) I/Serologie",
+        "Röhrchen": "Serum",
+        "Bemerkungen": "I Schein →\r\nPrä- und Perinataler Infektionsblock"
+    }
+]

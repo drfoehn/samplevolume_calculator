@@ -1,0 +1,362 @@
+[
+{"Untersuchung":"Anti Xa Heparinmonitoring","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"Genau 4h nach Lovenoxgabe! (Oder mit ges. Gerinnung)","Mindestprobenmenge (Pipettiermenge) \nin �l":"10","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Antiphospholipid-screening Citrat","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"ACHTUNG: Auch APS-Serum ausw�hlen!","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Antiphospholipid-screening Serum","Wohin/Schein":"","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"ACHTUNG: Auch APS-Citrat ausw�hlen!","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"APC-Ratio","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"beide ben�tigten Tests","Mindestprobenmenge (Pipettiermenge) \nin �l":"20","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"AT III","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"21","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"D-Dimer","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Fibrinogen","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"10","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor XII (12)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"4","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor XIII (13)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"20","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor II (2)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor V (5)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor VII (7)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor X (10)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor VIII (8)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor IX ( 9)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Gerinnungsfaktor XI (11)","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Protein C","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"Nur Mo-Fr.","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Protein S free","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"Nur Mo-Fr.","Mindestprobenmenge (Pipettiermenge) \nin �l":"21","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Protein S-Aktivit�t","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"Wird nur 1xWoche bestimmt,\nsonst im ZL tiefgek�hlt","Mindestprobenmenge (Pipettiermenge) \nin �l":"25","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"PTT","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"PZ (inkl. INR)","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"ROTEM (spez. Fibrinmessung)","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Gerinnung","Bemerkungen":"3ml Gerinnungsr�hrchen - gef�llt bis zur Markierung!","Mindestprobenmenge (Pipettiermenge) \nin �l":"3000","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Thrombinzeit (TZ)","Wohin/Schein":"ZL","Schein":"G / A / N","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"von-Willebrand-Faktor Antigen und Aktivit�t","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"30","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Gerinnung"}
+,
+{"Untersuchung":"Aszites Punktat (Leukos + Differenzierung)","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"EDTA","Bemerkungen":"Entnahmeort eingeben\nVorgehen siehe extra Zettel","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"160","Gruppe":"H�matologie"}
+,
+{"Untersuchung":"Leukozytentypisierung","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"EDTA","Bemerkungen":"Tel. Ank�ndigen inkl. Fragestellung","Mindestprobenmenge (Pipettiermenge) \nin �l":"526","Ben�tigtes Totvolumen \nin �l":"270","Gruppe":"H�matologie"}
+,
+{"Untersuchung":"Thrombozyten im Citratblut","Wohin/Schein":"ZL","Schein":"G","R�hrchen":"Gerinnung","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"160�l wird f�r Analyse ben�tigt - bitte ein von der Menge passendes Citratr�hrchen bis zur Markierung f�llen","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"H�matologie"}
+,
+{"Untersuchung":"Alpha-1 Antitrypsin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Immunologie"}
+,
+{"Untersuchung":"Cytomegalie AK (IgG, IgM)","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"Pipettiermenge je Parameter","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis B c-AK  (IgM / IgG)","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"300","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis B e-AK / AG","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"300","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis B s-Antigen","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis B s-Antik�rper","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis A-IgG / IgM","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis C-AK IgG/IgM","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Hepatitis Serologie","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"V- �rzten gew. US ? Unterschrift                                                                 1x volles Serum-R�hrchen","Mindestprobenmenge (Pipettiermenge) \nin �l":"1500","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"HIV-AK","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Herpes (HSV) - AK (IgG / IgM) im Blut","Wohin/Schein":"MB","Schein":"I","R�hrchen":"Serum","Bemerkungen":"Befund nach 1 Woche","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Herpes (HSV) - AK (IgG / IgM) im Abstrich (Schnellt.)","Wohin/Schein":"MB","Schein":"","R�hrchen":"Transwab Abstrich v. Kinderambulanz","Bemerkungen":"Keinen normalen BAK Abstrich vernwenden!","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Sars COV-2 Antik�rper","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Toxoplasmose AK (IgG +IgM)","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"300","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Varicellen IgG, IgM","Wohin/Schein":"MB","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Infektionsserologie"}
+,
+{"Untersuchung":"Ammoniak (= NH�)","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"EDTA-Vollblut","Bemerkungen":"SOFORT auf Eis legen und versenden","Mindestprobenmenge (Pipettiermenge) \nin �l":"17","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Elektroyte (Na, K, Cl, Ca, P, Mg) im Sammelharn","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Harnr�hrchen","Bemerkungen":"Na/K/Cl: 10-15 / Ca: 2 / Phosphor: 15 / Magnesium: 14\nHarnsammelmenge/24h mit angeben","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Panele"}
+,
+{"Untersuchung":"Elektroyte (Na, K, Cl, Ca, P, Mg) im Spontanharn","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Harnr�hrchen","Bemerkungen":"Na/K/Cl: 10-15 / Ca: 2 / Phosphor: 15 / Magnesium: 14","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Panele"}
+,
+{"Untersuchung":"Amylase im Harn","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Harnr�hrchen ohne Additive","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"4","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Albumin im Serum","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Aldolase","Wohin/Schein":"ZL","Schein":"B","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"400","Ben�tigtes Totvolumen \nin �l":"0","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Alkalische Phosphatase","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2.8","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Alkoholspielgel","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"4","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Amylase im Blut","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"4","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"ASL-Antistreptolysin- Titer","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Bilirubin direkt","Wohin/Schein":"","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"Optimal w�re Lichtschutz des R�hrchens","Mindestprobenmenge (Pipettiermenge) \nin �l":"6.7","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Bilirubin gesamt","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"Optimal w�re Lichtschutz des R�hrchens","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Blutzucker\nenzymatisch","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"Bei Einzelabnahme im gelben R�hrchen","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Caeruloplasmin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Cholesterin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Cholinesterase","Wohin/Schein":"ZL","Schein":"N","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"CKMB = CreatinKinase Isoenzym MB","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"CPK = CK","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2.8","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"CRP","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Cystatin C","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Nur Mo. - Fr.\nIm Harn nicht m�glich","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Serum-Eisen","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"8.5","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Transferrins�ttigung","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Berechnete Analyse (Serum-Eisen und Transferrin anfordern)","Mindestprobenmenge (Pipettiermenge) \nin �l":"0","Ben�tigtes Totvolumen \nin �l":"0","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Ferritin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"10","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Transferrin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Freies H�moglobin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"auch aus EDTA-Plasma m�glich","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Fructosamin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Diabet. Kinder","Mindestprobenmenge (Pipettiermenge) \nin �l":"6","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Haptoglobin","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Amylase im Liquor","Wohin/Schein":"ZL-CDK","Schein":"N","R�hrchen":"Punktat","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Liquoranalysen"}
+,
+{"Untersuchung":"ACE - Angiotensin convertingenzym","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"18","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Alpha 1-Fetoprotein (AFP)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"6","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Chylofl�ssigkeit auf TG, GP, PT, Lymphozyten, Zellzahl","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Wei�e Eprovette\n","Bemerkungen":"In Spalte Bemerkungen ganz unten eintragen\nR�hrchen gut schwenken","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Panele"}
+,
+{"Untersuchung":"Harns�ure","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"3","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Homocystein","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"EDTA","Bemerkungen":"Keine Vitamingabe die letzten 3d: Sofort gek�hlt in ZL","Mindestprobenmenge (Pipettiermenge) \nin �l":"20","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Interleukin 6 (Ven�ses oder Nabelschnurblut)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Bei Nabelschnurblut IL6 Cordal- blut ankreuzen","Mindestprobenmenge (Pipettiermenge) \nin �l":"18","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Kreatinin (+eGFR) im Blut","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"3","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Kreatinin im Harn","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Harnr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Kreatinin-Clearence","Wohin/Schein":"","Schein":"A","R�hrchen":"","Bemerkungen":"Zeitgleiche Abnahme von Harn und Blut.\nGes.harnmenge, Gewicht und L�nge des Kindes angeben!","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Kupfer im Plasma","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Sonderuntersuchungen"}
+,
+{"Untersuchung":"Kupfer im 24h-Harn","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Harnr�hrchen","Bemerkungen":"Angabe der gesamelten Harnmenge in 24h mit 1ml Harn ins ZL - Keine Konservierung (wird 1x die Woche gemacht)","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"500","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Laktat im Blut (heparin-Plasma)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"ZL ? Auf Eis (als Ersatz f�r Fluorid-R�)","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Laktat im Blut (Fluorid-R�hrchen)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Fluorid-R�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Lamictal Spiegel (Lamotrigin)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"LDH","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2.8","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"GOT","Wohin/Schein":"","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"GPT","Wohin/Schein":"","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Gamma-GT","Wohin/Schein":"","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"3","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Alkal. Phosphatase","Wohin/Schein":"","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"3","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Lipoprotein(a)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Myoglobin","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Oder gemeinsam mit anderen\nParametern","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"NSE  (neurospez. Enolase)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"12","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"S100","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"12","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"NT-proBNP","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Procalcitonin (PCT)","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"18","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Rheumafaktor","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"3","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Osmolarit�t im Serum\n","Wohin/Schein":"ZL","Schein":"H","R�hrchen":"Serum","Bemerkungen":"Au�erhalb Routinezeiten bitte Formular \"Zuweisung zur Messung der Osmolarit�t im Serum/Harn au�erhalb Routinezeiten\" verwenden.","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Transferrin Rezeptor l�slich","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"ALT :T-Zellen-Absolut:T4 + T8 NEU siehe Lymphozytentyp.","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Triglyceride","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Troponin hs","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"30","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Zink (Zn)","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Heparin-Plasma","Bemerkungen":"Wird 1x die Woche gemacht","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Sonderuntersuchungen"}
+,
+{"Untersuchung":"Covid PCR Blut","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"EDTA","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"1000","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"CMV PCR = DNA im Blut","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"EDTA\n","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"500","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"CMV PCR = DNA im Harn","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Harnr�hrchen\n","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"500","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"CMV PCR = DNA im Liquor","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Liquorr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"500","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Liquoranalysen"}
+,
+{"Untersuchung":"HBV DNS / HBV-PCR > quantitativ","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"300","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"HCV RNA / HCV-PCR > quantitativ","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"600","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"Herpes (HSV) PCR im Liquor","Wohin/Schein":"MB","Schein":"","R�hrchen":"Liquor","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Liquoranalysen"}
+,
+{"Untersuchung":"Herpes (HSV) PCR im Blut IgG/IgM - HSV 1/2 PCR","Wohin/Schein":"MB","Schein":"","R�hrchen":"EDTA","Bemerkungen":"Befund innerhalb 1 Woche","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"HIV RNA / HIV-PCR","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"EDTA","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"600","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"Influenza A/B + RSV PCR; SARS-COV2- PCR","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Nasal Aspirate/Wash (NA/W) Proben und Nasopharyngeal (NP) Abstriche in Virentransportmedium (3-ml-Ro?hrchen mit Transportmedium)","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"300 �l Virentransportmedium","Ben�tigtes Totvolumen \nin �l":"100�l","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"RSV PCR","Wohin/Schein":"ZL","Schein":"I","R�hrchen":"Nasen-, Rachen- oder Trachealsekret","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"UGT1A1-Polymorphismus","Wohin/Schein":"ZL","Schein":"B","R�hrchen":"EDTA","Bemerkungen":"Genetischer Revers n�tig,\nBefund dauert 1 ca Woche","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Molekularbiologie"}
+,
+{"Untersuchung":"Beta-2-Mikroglobulin im Harn","Wohin/Schein":"","Schein":"C","R�hrchen":"Harnr�hrchen ohne Additive","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"C3 Komplement","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"9","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"C4 Komplement","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"15","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Beta-2-Mikroglobulin im Blut","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"Kein Sammelharn n�tig","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Serum-Elektrophorese","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"10","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Albumin im Harn","Wohin/Schein":"ZL","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Albumin / Kreatinin - Ratio","Wohin/Schein":"ZL","Schein":"","R�hrchen":"","Bemerkungen":"Berechnete Analyse (Albumin und Kreatinin im Harn anfordern)","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Protein / Kreatinin - Ratio","Wohin/Schein":"ZL","Schein":"","R�hrchen":"","Bemerkungen":"Berechnete Analyse (Protein und Kreatinin im Harn anfordern)","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Gesamtprotein im Harn","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Harnproteinmuster (Albumin, Alpha1-Mikroglobulin, Alpha2-Makroglobulin, IgG und Kreatinin im Harn)","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Harnr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"323","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Immunglobuline IgM, IgA, IgG,","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"100\n","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Immunglobulin IgE","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"50","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Proteinchemie"}
+,
+{"Untersuchung":"Antihyptertensiva im Harn","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Harnr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Drogennachweis im Harn","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Harnr�hrchen","Bemerkungen":"M�glichst am 1. LT und erster Harn","Mindestprobenmenge (Pipettiermenge) \nin �l":"500","Ben�tigtes Totvolumen \nin �l":"750","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Coffein Spiegel aus Heparin-Plasma","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Heparin-Plasma","Bemerkungen":"Einzelbestimmung: Serum \nMit anderen Parametern: gemeinsam im Heparin-Plasma","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Alprazolamspiegel","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"CDG Screening","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"CDT","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Serum","Bemerkungen":"Bei Eltern gro�e R�hrchen","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Clozapin Spiegel","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Coffein Spiegel aus Serum","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Serum","Bemerkungen":"Einzelbestimmung: Serum \nMit anderen Parametern: gemeinsam im Heparin-Plasma","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Epanutin-Spiegel (Phenytoin)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"1.7","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Gallens�ure","Wohin/Schein":"ZL","Schein":"","R�hrchen":"Serum (Lichtgesch.!!)","Bemerkungen":"Probe wird nur Donnerstags\nuntersucht!","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Drogennachweis im Mekonium","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Stuhlr�hrchen","Bemerkungen":"M�glichst am 1. LT und erstes Mekonium","Mindestprobenmenge (Pipettiermenge) \nin �l":"1g","Ben�tigtes Totvolumen \nin �l":"1,5g","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Hydroxyprolin","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Harnr�hrchen mit\nKonservierung","Bemerkungen":"Kons.: 3ml Tymol 10% in\nIsopropanol vom ZL holen","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Katecholamine im Harn mit Konservierung","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Dunkles Sammelgef. mit Konserv.mittel, im ZL holen","Bemerkungen":"Tel. R�spr. bzgl der Menge des Konservierungsmittel (Eisessig) ?  auf 300ml Harn ca. 5ml Eisessig","Mindestprobenmenge (Pipettiermenge) \nin �l":"3000","Ben�tigtes Totvolumen \nin �l":"4500","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Katecholamine im Harn ohne Konserv. Arzt fragen!!","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Harnr�hrchen","Bemerkungen":"anges�uerter Harn aus Einzelprotion","Mindestprobenmenge (Pipettiermenge) \nin �l":"3000","Ben�tigtes Totvolumen \nin �l":"4500","Gruppe":"Sonderuntersuchungen"}
+,
+{"Untersuchung":"Keppraspiegel\n(Levetiracetam)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Nur Montag und Mittwoch!\nBis 10 Uhr abnehmen","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Refobacin\n(Gentamycin)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Tacrolimuspiegel","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"EDTA","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"400","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Targocid-Spiegel (Teicoplanin)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Talspiegel\nBestimmung t�glich zur Routinezeiten, an Feiertagen und Wochenenden bis 12:00h","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Theospirex-Spiegel (Theophyllin)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Talspiegel. Auf Kurve vermerken falls Spitzenspiegel","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Topamaxspiegel = Topiramatspiegel","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Nur 1x pro Woche bestimmt\n? Donnerstag\nWenn fr�her verschickt, wird Probe im Labor eingefroren","Mindestprobenmenge (Pipettiermenge) \nin �l":"150","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Valproins�ure (Depaken)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Unter Antikonvulsiva","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Vitamin A + E","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"550","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Vitamin B12","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Vitamin B1-B6","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"EDTA","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"300","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Zyvoxidspiegel (Linezolid)","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Nu Di und Do, muss vor\n07.00 Uhr im Labor sein","Mindestprobenmenge (Pipettiermenge) \nin �l":"100","Ben�tigtes Totvolumen \nin �l":"150","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Osmolarit�t im Harn","Wohin/Schein":"ZL","Schein":"H","R�hrchen":"Harnr�hrchen","Bemerkungen":"Au�erhalb Routinezeiten bitte Formular \"Zuweisung zur Messung der Osmolarit�t im Serum/Harn au�erhalb Routinezeiten\" verwenden.","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Harnanalysen"}
+,
+{"Untersuchung":"Clamydien Abstrich\n","Wohin/Schein":"MB","Schein":"","R�hrchen":"Abstriche\n","Bemerkungen":"Lagerung max. 1 Tag im K�hlschrank\nNur spezielle Abstirche verwenden, diese ggf. von Gyn anfordern (rote mit B�rste f�r Augen)","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Chylofl�ssigkeit auf TG, GP, PT,\nLymphozyten\nZellzahl","Wohin/Schein":"KiSpi","Schein":"","R�hrchen":"EDTA","Bemerkungen":"In Spalte Bemerkungen ganz unten eintragen\nR�hrchen gut schwenken","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Gerinnungsstatus speziell: Prothrombin, Faktor V Leiden,\nMTHFR","Wohin/Schein":"(ZL) G/Gerinnung ZL Genanalyse Tel.: 58104","Schein":"","R�hrchen":"EDTA","Bemerkungen":"Revers der Eltern n�tig, siehe extra Zettel","Mindestprobenmenge (Pipettiermenge) \nin �l":"200 �l","Ben�tigtes Totvolumen \nin �l":"100 �l","Gruppe":""}
+,
+{"Untersuchung":"H�moglobinvarianten","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"EDTA","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"146","Ben�tigtes Totvolumen \nin �l":"270","Gruppe":"H�matologie"}
+,
+{"Untersuchung":"Galaktose","Wohin/Schein":"KiSpi","Schein":"","R�hrchen":"Eppendorf","Bemerkungen":"1ml Perchlors�ure + 2 dazugeh. R�hrchen; vom Sat. Labor  (Tel.: 3880) holen.\nR�. bis zum schwarzen Strich\nf�llen = 0,2ml und in L�sung","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Glucose im Liquor","Wohin/Schein":"ZL-CDK","Schein":"","R�hrchen":"Eprovette","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"CDK","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Liquoranalysen"}
+,
+{"Untersuchung":"Blutzucker enzymatisch","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma","Bemerkungen":"Bei Einzelabnahme im gelben R�hrchen","Mindestprobenmenge (Pipettiermenge) \nin �l":"2","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Klinische Chemie"}
+,
+{"Untersuchung":"Digoxin-Spiegel","Wohin/Schein":"ZL","Schein":"A, N, E","R�hrchen":"Heparin-Plasma","Bemerkungen":"Abnahme 12 Std. nach letzter Gabe, am Schein vermerken","Mindestprobenmenge (Pipettiermenge) \nin �l":"6","Ben�tigtes Totvolumen \nin �l":"100","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"Aspergillus Antigen","Wohin/Schein":"MB","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Beta D Glucan","Wohin/Schein":"MB","Schein":"","R�hrchen":"Serum","Bemerkungen":"Oberfl�chenprotein von Pilzen","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Clamydien Igm/IgG","Wohin/Schein":"MB","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Clamydien Serologie","Wohin/Schein":"MB","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Chlostridien Toxine","Wohin/Schein":"MB","Schein":"","R�hrchen":"Stuhlr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Chlostridien Toxine","Wohin/Schein":"MB","Schein":"","R�hrchen":"Stuhlr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Enterovirus","Wohin/Schein":"MB","Schein":"","R�hrchen":"Stuhlr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Elastase im Stuhl\n(Prankreaselastase)","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Stuhlr�hrchen","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"1g","Ben�tigtes Totvolumen \nin �l":"1,5g","Gruppe":"Sonderuntersuchungen"}
+,
+{"Untersuchung":"Insulin Bestimmung","Wohin/Schein":"ZL","Schein":"A","R�hrchen":"Heparin-Plasma?","Bemerkungen":"N�chtern! sofort verschicken\nNICHT nachts/Wochenende","Mindestprobenmenge (Pipettiermenge) \nin �l":"90","Ben�tigtes Totvolumen \nin �l":"50","Gruppe":"Sonderuntersuchungen"}
+,
+{"Untersuchung":"Kuhmilch AK","Wohin/Schein":"DE","Schein":"","R�hrchen":"Serum","Bemerkungen":"Siehe n�chste Seite!","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Luminalspiegel","Wohin/Schein":"ZL","Schein":"E","R�hrchen":"Serum","Bemerkungen":"Einzelbestimmung: Serum Mit anderen Parametern:\ngemeinsam im Heparin-Plasma","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":"Toxikologie"}
+,
+{"Untersuchung":"�stirol im 24h Harn","Wohin/Schein":"NUK","Schein":"","R�hrchen":"Harnsammelgef��","Bemerkungen":"Gesamtmenge angeben","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Leukozyten im Pleura- oder Pericardpunktat","Wohin/Schein":"ZL","Schein":"C","R�hrchen":"Wei�e Eprovette \nEDTA f�r Zellz�hlung","Bemerkungen":"immer Punktat in wei�er Eprovette sowie Punktat im EDTA R�hrchen (f�r Leuko Best.)\nFRISCH!\nCAVE: bei Anforderung kommen 3 Etikette heraus (siehe extra Zettel)","Mindestprobenmenge (Pipettiermenge) \nin �l":"200","Ben�tigtes Totvolumen \nin �l":"160","Gruppe":"H�matologie"}
+,
+{"Untersuchung":"Pr�- und Perinataler Infektionsblock CMV, VZV, HbsAG,\nSyphilis, R�teln, Herpes, Parvo B19,\nToxoplamose","Wohin/Schein":"(ZL) I/Serologie unter Profile gr�n","Schein":"","R�hrchen":"Serum","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"CMV - AK","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"VZV - AK","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Treponema - Screening","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"R�teln - AK","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Parvo B19","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"Toxoplasmose","Wohin/Schein":"","Schein":"","R�hrchen":"","Bemerkungen":"","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+,
+{"Untersuchung":"TORCH: (alt) siehe Neu: Pr�- und Perinataler Infektionsblock","Wohin/Schein":"(ZL) I/Serologie","Schein":"","R�hrchen":"Serum","Bemerkungen":"I Schein ?\nPr�- und Perinataler Infektionsblock","Mindestprobenmenge (Pipettiermenge) \nin �l":"","Ben�tigtes Totvolumen \nin �l":"","Gruppe":""}
+
+]
