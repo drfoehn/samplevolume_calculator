@@ -9,7 +9,30 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="main.css">
     <title>Neo Probenrechner</title>
-  </head><body>
+  </head>
+  
+  <body>
+
+    <div class="input_div" style="">
+      <div class="input-group mb-3" id="bili-input">
+        <span class="input-group-text">Indirektes (unkonjugiertes) Bilirubin - Gemessener Wert</span>
+          <input type="number" id="hct" class="form-control" name="indBili" min="0" max="100" aria-label="indBili_gemessen">
+          <span class="input-group-text">mg/dl</span>
+      </div>
+      <div class="input-group mb-3" id="haem-input">
+        <span class="input-group-text">Hämolyse-Index</span>
+          <input type="number" id="hct" class="form-control" name="haem" min="0" max="100" aria-label="Hämolyse">
+          <span class="input-group-text">(=freies Hämoglobin in g/dL)</span>
+      </div>
+    <br>
+    <button type="button" class="btn btn-primary" onclick="calculateCorrBilirubin()">Korrigiertes indirektes Bilirubin berechnen</button>
+    
+    <div id="indBili_Result" style="color: red; padding-top: 1em; font-weight: bold;">
+        <!-- Ergebnisse für korrigiertes indirektes Bilirubin werden hier angezeigt -->
+    </div>
+  </div>
+
+
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Labortest Auswahl</a>
@@ -59,19 +82,20 @@
         <!-- Dynamisch generierte Auswahl und Ergebnisse der Röhrchentypen werden hier eingefügt -->
     </div>
     <div class="input_div" style="width: 500px;">
-    <div class="input-group mb-3" id="hkt-input">
-  <span class="input-group-text">Hämatokrit:</span>
-  <input type="number" id="hct" class="form-control" name="hct" min="0" max="100" aria-label="Hämatokrit">
-  <span class="input-group-text">%</span>
-</div>
+      <div class="input-group mb-3" id="hkt-input">
+        <span class="input-group-text">Hämatokrit:</span>
+          <input type="number" id="hct" class="form-control" name="hct" min="0" max="100" aria-label="Hämatokrit">
+          <span class="input-group-text">%</span>
+      </div>
     <br>
     <button type="button" class="btn btn-primary" onclick="calculateSampleVolume()">Probenmenge berechnen</button>
-</div>
+    </div>
     <div id="calculationResult">
         <!-- Ergebnisse für jeden Röhrchentyp werden hier angezeigt -->
     </div>
 
-    <script src="script.js"></script>
+    <script src="samplecalculator.js"></script>
+    <script src="bilicalculator.js"></script>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
